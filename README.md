@@ -17,7 +17,7 @@ A new file, example.txt.json, will be created but not formated nicely.
 		"x": 1.0,
 		"y": 11.0
 	},
-  {
+  	{
 		"x": 2.0,
 		"y": 22.0
 	}]

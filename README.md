@@ -8,7 +8,7 @@ In example.txt
 (1,11)
 (2,22)
 ```
-Run `$ python3 example.txt`
+Run `$ python3 converter.py example.txt`
 
 A new file, example.txt.json, will be created but not formated nicely.
 ```javascript
